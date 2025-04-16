@@ -28,6 +28,13 @@ Your privacy and safety are non-negotiable, and we’re committed to maintaining
 ## Freedom of Speech
 Voxa Communications is built on the principle that open discourse is essential for progress. We strive to create a platform where voices can be heard, and ideas can be shared freely, while balancing the need for responsible moderation to prevent harm. Our policies are transparent, and our moderation processes are designed to be fair and accountable.
 
+## Our Funding Model
+We operate as a not-for-profit organization, driven by our mission to create a free and open communication platform rather than financial gain. We are funded through:
+ - Sponsorships: Partnerships with like-minded organizations that share our vision for secure and open communication.
+ - Crowdfunding: Contributions from our passionate community of supporters who believe in our mission.
+
+This model ensures that our priorities remain aligned with our users’ needs, allowing us to focus on delivering a platform that serves the public good without the pressures of profit-driven motives.
+
 ## Join Us
 Be part of the Voxa Communications revolution! Whether you’re a gamer, creator, or just someone who loves to connect, our platform is for you. Sign up for our beta at [voxacommunications](https://voxa-communications.github.io) and help shape the future of social media.
 
