@@ -16,6 +16,15 @@ At Voxa Communications, we envision a world where people can communicate freely,
 - **Community Governance Tools**:  Moderate and protect your community with tools to set guidelines, manage interactions, and promote engagement.
 - **Open API**: Enable developers to build bots, integrations, and custom experiences.
 
+## Our Products
+We offer the full-stack of programs, both server and client, designed to give both developers and users a seemless user experience \
+** Developer Note: ** These are presented projects, however at the moment they remain concepts, while this orginization materializes
+ - **Voxa Client** A cross-platform application available on desktop (Windows, Linux, macOS [LIMITED SUPPORT] ), mobile (iOS [LIMITED SUPPORT] , Android), and web browsers. The client provides an intuitive interface for joining communities, participating in real-time feeds, and engaging in voice, video, and text conversations. It’s built for performance and accessibility, ensuring a smooth experience across devices.
+ - **Voxa Server** A robust, open-source server software that powers our platform’s backend. Communities can host their own servers to create private or public hubs, giving them full control over their data and governance. The server is optimized for scalability and security, supporting thousands of concurrent users.
+ - **Voxa CDN/DB** A scaleable contanerized Content Delivery Network, that provides users with the seemless image and file sharing experience
+ - **Voxa Registry** Registry of all decentralized Voxa servers, as well as users. Developer Note: This is one of the programs that you probably wont need to host. Idealy we have only one offical Voxa registry that everyone uses.
+ - **Voxa Docs [API / Developer Portal]** Provides developers with detalied guides on how to develop applications for Voxa, and how to deploy those applications.
+
 ## Commitment to Security
 We believe that trust is the foundation of any social platform. Voxa Communications employs advanced security measures, including:
 - **End-to-end encryption** for private messages and voice calls.
