@@ -25,8 +25,8 @@ We believe that trust is the foundation of any social platform. Voxa Communicati
 
 Your privacy and safety are non-negotiable, and we’re committed to maintaining a platform where you can communicate with confidence.
 
-## Championing Freedom of Speech
-Voxa Communications is built on the principle that open discourse is essential for progress. We strive to create a platform where diverse voices can be heard, and ideas can be shared freely, while balancing the need for responsible moderation to prevent harm. Our policies are transparent, and our moderation processes are designed to be fair and accountable.
+## Freedom of Speech
+Voxa Communications is built on the principle that open discourse is essential for progress. We strive to create a platform where voices can be heard, and ideas can be shared freely, while balancing the need for responsible moderation to prevent harm. Our policies are transparent, and our moderation processes are designed to be fair and accountable.
 
 ## Join Us
 Be part of the Voxa Communications revolution! Whether you’re a gamer, creator, or just someone who loves to connect, our platform is for you. Sign up for our beta at [voxacommunications](https://voxa-communications.github.io) and help shape the future of social media.
