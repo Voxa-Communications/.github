@@ -1,7 +1,7 @@
 
 # Voxa Communications
 
-**Building the Future of Social Communication, for this ever-evolving world**
+**Building the Future of Social Communication**
 
 Voxa Communications is an innovative tech company dedicated to creating a next-generation social media platform that blends the seamless community engagement of Discord with the dynamic, real-time interaction of Twitter. Our mission is to empower users to connect, share, and express themselves in a secure and open digital environment.
 
