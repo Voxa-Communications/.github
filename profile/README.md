@@ -52,8 +52,8 @@ Be part of the Voxa Communications revolution! Whether you’re a gamer, creator
 
 ## Legal
 Copies of all legal documents are located in `Voxa-Communications/legal`
- - **[Voxa Terms of Service]()**
- - **[Voxa Privacy Policy]()**
+ - **[Voxa Terms of Service](https://github.com/Voxa-Communications/legal/raw/refs/heads/main/documents/TOS.txt)**
+ - **[Voxa Privacy Policy](https://github.com/Voxa-Communications/legal/raw/refs/heads/main/documents/PrivacyPolicy.txt)**
  - **[Open Source Licenses]()**
 
 WARNING, Twitter remains a **Placeholder**, we have not created an account yet. \
