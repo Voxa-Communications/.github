@@ -22,7 +22,7 @@ At Voxa Communications, we envision a world where people can communicate freely,
 ## Our Products
 We offer the full-stack of programs, both server and client, designed to give both developers and users a seemless user experience \
 ** Developer Note: ** These are presented projects, however at the moment they remain concepts, while this orginization materializes
- - **Voxa Client** A cross-platform application available on desktop (Windows, Linux, macOS [LIMITED SUPPORT] ), mobile (iOS [LIMITED SUPPORT] , Android), and web browsers. The client provides an intuitive interface for joining communities, participating in real-time feeds, and engaging in voice, video, and text conversations. It’s built for performance and accessibility, ensuring a smooth experience across devices.
+ - **[Voxa Client](https://github.com/Voxa-Communications/VoxaCommunications-Client)** A cross-platform application available on desktop (Windows, Linux, macOS [LIMITED SUPPORT] ), mobile (iOS [LIMITED SUPPORT] , Android), and web browsers. The client provides an intuitive interface for joining communities, participating in real-time feeds, and engaging in voice, video, and text conversations. It’s built for performance and accessibility, ensuring a smooth experience across devices.
  - **Voxa Server** A robust, open-source server software that powers our platform’s backend. Communities can host their own servers to create private or public hubs, giving them full control over their data and governance. The server is optimized for scalability and security, supporting thousands of concurrent users.
  - **Voxa CDN/DB** A scaleable contanerized Content Delivery Network, that provides users with the seemless image and file sharing experience
  - **Voxa Registry** Registry of all decentralized Voxa servers, as well as users. Developer Note: This is one of the programs that you probably wont need to host. Idealy we have only one offical Voxa registry that everyone uses.
@@ -48,8 +48,14 @@ We operate as a not-for-profit organization, driven by our mission to create a f
 This model ensures that our priorities remain aligned with our users’ needs, allowing us to focus on delivering a platform that serves the public good without the pressures of profit-driven motives.
 
 ## Join Us
-Be part of the Voxa Communications revolution! Whether you’re a gamer, creator, or just someone who loves to connect, our platform is for you. Sign up for our beta at [voxacommunications](https://voxa-communications.github.io) and help shape the future of social media.
+Be part of the Voxa Communications revolution! Whether you’re a gamer, creator, or just someone who loves to connect, our platform is for you. Sign up for our beta at [Voxa-Communications](https://voxa-communications.github.io) and help shape the future of social media.
 
-WARNING, these are placeholders \
-**Follow us**: [Twitter](https://twitter.com/---) | [Discord](https://discord.gg/--)  
+## Legal
+Copies of all legal documents are located in `Voxa-Communications/legal`
+ - **[Voxa Terms of Service]()**
+ - **[Voxa Privacy Policy]()**
+ - **[Open Source Licenses]()**
+
+WARNING, Twitter remains a **Placeholder**, we have not created an account yet. \
+**Follow us**: [Twitter/X](https://twitter.com/---) | [Discord](https://discord.gg/euANtrvhUj)  
 **Contact**: voxasupport@connor33341.dev
