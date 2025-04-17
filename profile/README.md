@@ -1,3 +1,6 @@
+<p><img align="center" src="card.png"></p>
+
+---
 
 # Voxa Communications
 
