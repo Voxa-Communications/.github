@@ -1,6 +1,6 @@
 <p><img align="center" src="card.png"></p>
 
-[PATERON](patreon.com/VoxaCommunications)
+[PATERON](https://patreon.com/VoxaCommunications)
 
 ---
 
