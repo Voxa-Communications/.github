@@ -1,5 +1,7 @@
 <p><img align="center" src="card.png"></p>
 
+[PATERON](patreon.com/VoxaCommunications)
+
 ---
 
 # Voxa Communications
