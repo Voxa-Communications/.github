@@ -1,7 +1,5 @@
 <p><img align="center" src="card.png"></p>
 
-[PATERON](https://patreon.com/VoxaCommunications)
-
 ---
 
 # Voxa Communications
@@ -28,7 +26,7 @@ We offer the full-stack of programs, both server and client, designed to give bo
  - **[Voxa Server](https://github.com/Voxa-Communications/VoxaCommunications-Server)** A robust, open-source server software that powers our platform’s backend. Communities can host their own servers to create private or public hubs, giving them full control over their data and governance. The server is optimized for scalability and security, supporting thousands of concurrent users.
  - **Voxa CDN/DB** A scaleable contanerized Content Delivery Network, that provides users with the seemless image and file sharing experience
  - **[Voxa Proxy](https://github.com/Voxa-Communications/VoxaCommunications-Proxy)** A powerful, open-source proxy service designed to protect the privacy and security of decentralized Voxa servers by anonymizing their identities and concealing their IP addresses. Voxa Proxy serves as a secure intermediary between clients and servers, ensuring that server operators can host communities without exposing their infrastructure to potential threats or identification.
- - **Voxa Registry** Registry of all decentralized Voxa servers, as well as users. Developer Note: This is one of the programs that you probably wont need to host. Idealy we have only one offical Voxa registry that everyone uses.
+ - **[Voxa Registry](https://github.com/Voxa-Communications/VoxaCommunications-Registry)** Registry of all decentralized Voxa servers, as well as users. Developer Note: This is one of the programs that you probably wont need to host. Idealy we have only one offical Voxa registry that everyone uses.
  - **Voxa Docs [API / Developer Portal]** Provides developers with detalied guides on how to develop applications for Voxa, and how to deploy those applications.
 
 ## Commitment to Security
@@ -59,6 +57,5 @@ Copies of all legal documents are located in `Voxa-Communications/legal`
  - **[Voxa Privacy Policy](https://github.com/Voxa-Communications/legal/raw/refs/heads/main/documents/PrivacyPolicy.txt)**
  - **[Open Source Licenses]()**
 
-WARNING, Twitter remains a **Placeholder**, we have not created an account yet. \
-**Follow us**: [Twitter/X](https://twitter.com/---) | [Discord](https://discord.gg/euANtrvhUj)  
+**Follow us**: [Twitter/X(Soon)](https://twitter.com/---) | [Pateron](https://patreon.com/VoxaCommunications) | [Telegram](https://t.me/voxacommunications) | [Discord](https://discord.gg/EDtPX5E4D4)
 **Contact**: voxasupport@connor33341.dev
