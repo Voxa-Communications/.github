@@ -57,5 +57,5 @@ Copies of all legal documents are located in `Voxa-Communications/legal`
  - **[Voxa Privacy Policy](https://github.com/Voxa-Communications/legal/raw/refs/heads/main/documents/PrivacyPolicy.txt)**
  - **[Open Source Licenses]()**
 
-**Follow us**: [Twitter/X(Soon)](https://twitter.com/---) | [Pateron](https://patreon.com/VoxaCommunications) | [Telegram](https://t.me/voxacommunications) | [Discord](https://discord.gg/EDtPX5E4D4)
+**Follow us**: [Twitter/X](https://x.com/VoxaOffical) | [Pateron](https://patreon.com/VoxaCommunications) | [Telegram](https://t.me/voxacommunications) | [Discord](https://discord.gg/EDtPX5E4D4)
 **Contact**: voxasupport@connor33341.dev
