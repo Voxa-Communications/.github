@@ -58,4 +58,4 @@ Copies of all legal documents are located in `Voxa-Communications/legal`
  - **[Open Source Licenses]()**
 
 **Follow us**: [Twitter/X](https://x.com/VoxaOffical) | [Pateron](https://patreon.com/VoxaCommunications) | [Telegram](https://t.me/voxacommunications) | [Discord](https://discord.gg/EDtPX5E4D4) | [Dev.to(Account, not org)](https://dev.to/voxacommunications-account)
-**Contact**: voxasupport@connor33341.dev
+**Contact**: voxa@connor33341.dev
