@@ -44,7 +44,7 @@ Voxa Communications is built on the principle that open discourse is essential f
 ## Our Funding Model
 We operate as a not-for-profit organization, driven by our mission to create a free and open communication platform rather than financial gain. We are funded through:
  - Sponsorships: Partnerships with like-minded organizations that share our vision for secure and open communication.
- - Crowdfunding: Contributions from our passionate community of supporters who believe in our mission.
+ - Crowdfunding: Contributions from our passionate community of supporters who believe in our mission. ( Raised: 1.3 SOL & 0.5 XMR )
 
 This model ensures that our priorities remain aligned with our users’ needs, allowing us to focus on delivering a platform that serves the public good without the pressures of profit-driven motives.
 
