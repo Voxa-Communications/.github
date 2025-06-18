@@ -1,3 +1,5 @@
+<p><img align="center" src="card.png"></p>
+
 # VoxaCommunications
 
 **Building the Future of Decentralized App Deployment**
