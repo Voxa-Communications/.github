@@ -25,7 +25,7 @@ We offer a full stack of programs, both server and client, designed to provide d
 - **Voxa CDN/DB**: A scalable, containerized Content Delivery Network that ensures seamless app asset delivery and data management across the decentralized network.
 - **[Voxa Proxy](https://github.com/Voxa-Communications/VoxaCommunications-Proxy)**: A powerful, open-source proxy service designed to protect the privacy and security of decentralized Voxa servers by anonymizing their identities and concealing their IP addresses. It ensures node operators can host apps without exposing their infrastructure to threats.
 - **[Voxa Registry](https://github.com/Voxa-Communications/VoxaCommunications-Registry)**: A registry of all decentralized Voxa servers and deployed apps. **Developer Note**: Ideally, there is one official Voxa registry that everyone uses, reducing the need for individual hosting.
-- **Voxa Docs [API / Developer Portal]**: Provides developers with detailed guides on building and deploying applications on the Voxa network.
+- **[Voxa Docs](https://voxacommunications-website.pages.dev/#docs)**: Provides developers with guides on building and deploying applications on the VoxaCommunications/Stellaris-Chain network.
 
 ## Commitment to Security
 We believe trust is the foundation of any decentralized platform. Voxa Communications employs advanced security measures, including:
