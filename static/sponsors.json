@@ -3,7 +3,7 @@
     "platinum": [
       {
         "name": "Example Platinum Sponsor",
-        "logo": "https://placehold.co/200x80/FFD700/000000?text=Platinum+Sponsor",
+        "logo": "https://placehold.co/200x80/206C92/000000?text=Platinum+Sponsor",
         "website": "https://example.com",
         "description": "Leading the way in decentralized infrastructure"
       }
@@ -72,7 +72,7 @@
   "tiers": {
     "platinum": {
       "name": "Platinum",
-      "color": "#FFD700",
+      "color": "#206C92",
       "benefits": ["Logo on homepage", "Blog post feature", "Priority support"]
     },
     "gold": {
