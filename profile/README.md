@@ -1,5 +1,7 @@
 <p><img align="center" src="card.png"></p>
 
+![Static Badge](https://img.shields.io/badge/telegram-voxacommunications-blue?link=https%3A%2F%2Ft.me%2Fvoxacommunications)
+
 # [VoxaCommunications](https://voxacommunications-website.pages.dev/)
 
 **Building the Future of Decentralized App Deployment**
